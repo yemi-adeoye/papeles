@@ -158,3 +158,5 @@ CORS_ALLOW_CREDENTIALS = True
 CSRF_TRUSTED_ORIGINS = ['localhost:3000']
 
 CSRF_USE_SESSIONS = True
+
+ALLOWED_HOST = ['https://yemi-adeoye.github.io/client/']
