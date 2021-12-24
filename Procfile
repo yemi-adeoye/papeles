@@ -1,0 +1,1 @@
+web: gunicorn papeles.wsgi --log-file -
