@@ -29,7 +29,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = env('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 
 # Application definition
@@ -160,7 +160,7 @@ CSRF_TRUSTED_ORIGINS = ['localhost:3000']
 
 CSRF_USE_SESSIONS = True
 
-ALLOWED_HOST = ['https://yemi-adeoye.github.io/client/']
+ALLOWED_HOST = ['herokuapp.com', 'https://yemi-adeoye.github.io/client/']
 
 # The absolute path to the directory where collectstatic will collect static files for deployment.
 STATIC_ROOT = BASE_DIR / 'staticfiles'
