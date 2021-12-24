@@ -1,0 +1,20 @@
+{
+    "TITLE": "NEWS NOW",
+
+    "URL": [
+        "https://www.newsnow.com/ng/Hot+Topics",
+        "https://www.newsnow.com/ng/Nigeria",
+        "https://www.newsnow.com/ng/Politics",
+        "https://www.newsnow.com/ng/Crime",
+        "https://www.newsnow.com/ng/Sport/",
+        "https://www.newsnow.com/ng/Economy",
+        "https://www.newsnow.com/ng/World/Africa",
+        "https://www.newsnow.com/ng/Entertainment"
+    ],
+
+    "TAG": ".title a",
+    "HEADLINE": "h1.entry-title",
+    "DATE": "span.updated",
+    "AUTHOR": false,
+    "PARAGRAPHS": ".entry-content p"
+}

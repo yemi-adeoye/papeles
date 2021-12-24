@@ -1,0 +1,18 @@
+{
+    "TITLE": "HALLMARK",
+
+    "URL": [
+        "https://hallmarknews.com/category/business/",
+        "https://hallmarknews.com/category/finance/",
+        "https://hallmarknews.com/category/politics/",
+        "https://www.sunnewsonline.com/category/politics/",
+        "https://hallmarknews.com/category/health/",
+        "https://www.sunnewsonline.com/category/politics/"
+    ],
+
+    "TAG": "h3.entry-title a",
+    "HEADLINE": "h1.entry-title",
+    "DATE": "time.entry-date",
+    "AUTHOR": false,
+    "PARAGRAPHS": ".td-post-content p"
+}

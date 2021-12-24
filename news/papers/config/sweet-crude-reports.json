@@ -1,0 +1,19 @@
+{
+    "TITLE": "SWEET CRUDE REPORTS",
+
+    "URL": [
+        "https://sweetcrudereports.com/category/oil/",
+        "https://sweetcrudereports.com/category/gas/",
+        "https://sweetcrudereports.com/category/power/",
+        "https://sweetcrudereports.com/category/solid-minerals/",
+        "https://sweetcrudereports.com/category/labour/",
+        "https://sweetcrudereports.com/category/financing/",
+        "https://sweetcrudereports.com/category/community-development/",
+        "https://sweetcrudereports.com/category/nigerian-content-initiative-2/"
+    ],
+    "TAG": ".bp-head h2 a",
+    "HEADLINE": "h1.entry-title",
+    "DATE": "time.updated",
+    "AUTHOR": ".entry-content p strong",
+    "PARAGRAPHS": ".entry-content p"
+}

@@ -1,0 +1,20 @@
+{
+    "TITLE": "DAILY TIMES",
+
+    "URL": [
+        "https://dailytimesng.com/section/news/",
+        "https://dailytimesng.com/section/politics/",
+        "https://dailytimesng.com/section/entertainment/",
+        "https://dailytimesng.com/section/business/",
+        "https://dailytimesng.com/section/sports/",
+        "https://dailytimesng.com/section/health/",
+        "https://dailytimesng.com/section/sport/",
+        "https://dailytimesng.com/section/sport/"
+    ],
+
+    "TAG": ".entry-title a",
+    "HEADLINE": "h1.entry-title",
+    "DATE": "span.updated",
+    "AUTHOR": false,
+    "PARAGRAPHS": ".entry-content p"
+}

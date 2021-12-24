@@ -1,0 +1,16 @@
+{
+    "TITLE": "PREMIUM TIMES",
+
+    "URL": [
+        "https://www.premiumtimesng.com/category/news",
+        "https://www.premiumtimesng.com/category/business",
+        "https://www.premiumtimesng.com/category/health",
+        "https://www.premiumtimesng.com/category/agriculture",
+        "https://www.premiumtimesng.com/category/sports"
+    ],
+    "TAG": ".jeg_post_title a",
+    "HEADLINE": "h1.jeg_post_title",
+    "DATE": ".jeg_meta_date a",
+    "AUTHOR": "a.author",
+    "PARAGRAPHS": ".content-inner > p "
+}

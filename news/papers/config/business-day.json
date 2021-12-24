@@ -1,0 +1,18 @@
+{
+    "TITLE": "BUSINESS DAY",
+
+    "URL": [
+        "https://businessday.ng/category/news/",
+        "https://businessday.ng/category/companies/",
+        "https://businessday.ng/category/business-economy/",
+        "https://businessday.ng/category/technology/",
+        "https://businessday.ng/category/energy/",
+        "https://businessday.ng/category/world/"
+    ],
+
+    "TAG": ".title a",
+    "HEADLINE": "span.post-title",
+    "DATE": "time.updated b",
+    "AUTHOR": "a.author",
+    "PARAGRAPHS": ".entry-content p"
+}

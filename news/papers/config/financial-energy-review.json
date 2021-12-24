@@ -1,0 +1,19 @@
+{
+    "TITLE": "FIANACIAL ENERGY REVIEW",
+
+    "URL": [
+        "https://financialenergyreview.com/category/oil/",
+        "https://financialenergyreview.com/category/gas/",
+        "https://financialenergyreview.com/category/power/",
+        "https://financialenergyreview.com/category/labour/",
+        "https://financialenergyreview.com/category/financing/",
+        "https://financialenergyreview.com/category/maritime/",
+        "https://financialenergyreview.com/category/environment/"
+    ],
+
+    "TAG": ".post-title a",
+    "HEADLINE": ".post-title span",
+    "DATE": "span.tie-date",
+    "AUTHOR": ".post-meta-author",
+    "PARAGRAPHS": ".entry p"
+}

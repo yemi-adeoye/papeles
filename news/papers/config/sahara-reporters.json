@@ -1,0 +1,16 @@
+{
+    "TITLE": "SAHARA REPORTERS",
+
+    "URL": [
+        "http://saharareporters.com/news",
+        "http://saharareporters.com/politics",
+        "http://saharareporters.com/sports",
+        "http://health.saharareporters.com/"
+    ],
+
+    "TAG": ".block-module-content-header-title a",
+    "HEADLINE": "h1.page-header-title",
+    "DATE": ".page-header-attribution-date",
+    "AUTHOR": ".page-header-attribution-title",
+    "PARAGRAPHS": ".story-content p"
+}

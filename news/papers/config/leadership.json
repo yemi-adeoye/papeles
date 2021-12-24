@@ -1,0 +1,18 @@
+{
+    "TITLE": "LEADERSHIP",
+
+    "URL": [
+        "https://leadership.ng/nigeria-news/",
+        "https://leadership.ng/politics/",
+        "https://leadership.ng/business/",
+        "https://leadership.ng/sports-news/",
+        "https://leadership.ng/entertainment-news/",
+        "https://leadership.ng/nigeria-news/health/"
+    ],
+
+    "TAG": ".jeg_post_title a",
+    "HEADLINE": "h1.jeg_post_title",
+    "DATE": ".jeg_meta_date a",
+    "AUTHOR": true,
+    "PARAGRAPHS": ".content-inner > p "
+}

@@ -1,0 +1,18 @@
+{
+    "TITLE": "DAILY INDEPENDENT",
+
+    "URL": [
+        "https://independent.ng/category/news/",
+        "https://independent.ng/category/entertain360/",
+        "https://independent.ng/category/politics/",
+        "https://independent.ng/category/sports/",
+        "https://independent.ng/category/business/",
+        "https://independent.ng/category/world/"
+    ],
+
+    "TAG": ".title a",
+    "HEADLINE": ".single-post-title span.post-title",
+    "DATE": "time.updated",
+    "AUTHOR": ".post-author-name b",
+    "PARAGRAPHS": ".entry-content p"
+}

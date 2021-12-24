@@ -1,0 +1,21 @@
+{
+    "TITLE": "BLUEPRINT",
+
+    "URL": [
+        "https://www.blueprint.ng/category/breaking-news/",
+        "https://www.blueprint.ng/category/education/",
+        "https://www.blueprint.ng/category/metro/",
+        "https://www.blueprint.ng/category/agriculture/",
+        "https://www.blueprint.ng/category/news/",
+        "https://www.blueprint.ng/category/ict/",
+        "https://www.blueprint.ng/category/health-news/",
+        "https://www.blueprint.ng/category/news-politics/",
+        "https://www.blueprint.ng/category/sports-npfl-news/",
+        "https://www.blueprint.ng/category/business-news/"
+    ],
+    "TAG": "h3.entry-title a",
+    "HEADLINE": "h1.entry-title",
+    "DATE": "span.updated",
+    "AUTHOR": false,
+    "PARAGRAPHS": ".entry-content p"
+}

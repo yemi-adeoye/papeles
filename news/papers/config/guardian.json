@@ -1,0 +1,18 @@
+{
+    "TITLE": "GUARDIAN",
+
+    "URL": [
+        "https://guardian.ng/category/news/nigeria/",
+        "https://guardian.ng/category/news/world/",
+        "https://guardian.ng/category/news/politics/",
+        "https://guardian.ng/category/news/sport/",
+        "https://guardian.ng/category/news/opinion/",
+        "https://guardian.ng/category/news/business-services/",
+        "https://guardian.ng/category/news/technology/"
+    ],
+    "TAG": ".title a",
+    "HEADLINE": ".article-header h1.title",
+    "DATE": "div.single-article-datetime",
+    "AUTHOR": ".author strong",
+    "PARAGRAPHS": ".content article p"
+}
