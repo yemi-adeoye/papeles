@@ -156,7 +156,7 @@ CORS_ORIGIN_WHITELIST = [
 
 CORS_ALLOW_CREDENTIALS = True
 
-CSRF_TRUSTED_ORIGINS = ['localhost:3000']
+CSRF_TRUSTED_ORIGINS = ['https://yemi-adeoye.github.io/']
 
 CSRF_USE_SESSIONS = True
 
