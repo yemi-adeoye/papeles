@@ -160,7 +160,8 @@ CSRF_TRUSTED_ORIGINS = ['localhost:3000']
 
 CSRF_USE_SESSIONS = True
 
-ALLOWED_HOST = ['https://evening-bastion-25872.herokuapp.com']
+# ALLOWED_HOST = ['https://evening-bastion-25872.herokuapp.com']
+ALLOWED_HOST = ['*']
 
 # The absolute path to the directory where collectstatic will collect static files for deployment.
 STATIC_ROOT = BASE_DIR / 'staticfiles'
