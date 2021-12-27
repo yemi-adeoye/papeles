@@ -12,7 +12,7 @@
     ],
     "TAG": ".title a",
     "HEADLINE": ".article-header h1.title",
-    "DATE": "div.single-article-datetime",
-    "AUTHOR": ".author strong",
+    "DATE": ".date",
+    "AUTHOR": ".author",
     "PARAGRAPHS": ".content article p"
 }
